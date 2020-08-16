@@ -10,7 +10,7 @@ Hay sistemas similares habilitados en forma local en algunos establecimientos.
 Se plantea crear una base de datos que integre todos los centros que brinden atención médica.
 Se espera que el sistema llegue a conectar además con centros de estudios médicos, laboratorios, ortopedias, farmacias, etc. para minimizar costos y tiempos administrativos y libere al paciente de la necesidad de movilizarse para trámites superfluos.
 
-![Pantalla principal](https://github.com/programming-Regina/Hygieia/blob/master/img/ppal.jpg)
+![Pantalla principal](https://github.com/programming-Regina/Hygieia/blob/master/img/ppal.JPG)
 
 Juego de datos para testeo (
 Usuarios con acceso al sistema:
