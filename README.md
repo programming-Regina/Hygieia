@@ -1,7 +1,10 @@
 # Hygieia
-PROYECTO HYGIEIA v.0.9 Demo funcional
+PROYECTO HYGIEIA v.0.9 - Demo funcional
+
 Sistema centralizado de historias clínicas  
+
 Copyright (C) 2017 Regina Noemí Molares
+
 programming.regina@gmail.com
          
 El proyecto propone un sistema de acceso centralizado a la historia clínica de un paciente, independientemente del establecimiento y especialidad en que haya sido atendido.
