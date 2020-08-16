@@ -14,14 +14,17 @@ Se espera que el sistema llegue a conectar además con centros de estudios médi
 
 Juego de datos para testeo (
 Usuarios con acceso al sistema:
+
 ![Datos acceso](https://github.com/programming-Regina/Hygieia/blob/master/img/profesionales.jpg)
 
 Pacientes con Historias clínicas cargadas marcados con punto rojo:
+
 ![BD](https://github.com/programming-Regina/Hygieia/blob/master/img/gente.jpg)
 
 Versiones posteriores con visualización de estudios clínicos y de imágenes.
 Programado en Java, con DB portable + Apache Derby Network Client JDBC Driver
 Testeado bajo Windows 7, 8 y 10.
 Requiere JRE.
+
 
 ![Portada](https://github.com/programming-Regina/Hygieia/blob/master/img/Portada.jpg)
