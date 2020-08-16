@@ -15,7 +15,9 @@ Se espera que el sistema llegue a conectar además con centros de estudios médi
 
 ![Pantalla principal](https://github.com/programming-Regina/Hygieia/blob/master/img/ppal.JPG)
 
-Juego de datos para testeo (
+Archivo ejecutable: Hygieia.jar
+
+Juego de datos para testeo 
 Usuarios con acceso al sistema:
 
 ![Datos acceso](https://github.com/programming-Regina/Hygieia/blob/master/img/profesionales.jpg)
